@@ -9,4 +9,10 @@ Pure Python Turtle Graphics (no external libraries).
 
 Artistic rendering of Krishna’s face & feather.
 
-Symbolic design celebrating Indian culture & festivals
+Symbolic design celebrating Indian culture & festivals 
+
+
+
+OutPut
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/b1d26b8c-28bd-4141-b151-55f96e3ef6a6" />
+
