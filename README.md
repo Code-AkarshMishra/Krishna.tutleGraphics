@@ -13,6 +13,12 @@ Symbolic design celebrating Indian culture & festivals
 
 
 
-OutPut
-<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/b1d26b8c-28bd-4141-b151-55f96e3ef6a6" />
+
+
+## Output
+![KRISHNA](https://github.com/user-attachments/assets/132e19df-4ec1-4f02-a7e6-c69d961f25c7)
+
+
+
+
 
